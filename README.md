@@ -59,10 +59,6 @@ or
 | --------- | --------- | --------- | --------- |
 | IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions
 
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/TeriFash/x.scripts.user/master/CONTRIBUTING.md)
-
 ## License
 
 [MIT License](https://github.com/TeriFash/x.scripts.user/master/LICENSE)
