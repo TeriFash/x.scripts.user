@@ -1,13 +1,17 @@
 // ==UserScript==
 // @name         Download / Play - [ X ]
 // @namespace    http://tampermonkey.net/
-// @version      2.9
-// @copyright    2022, terifash (https://openuserjs.org/users/teri.fash)
-// @author       Teri.Fash <teri.fash@gmail.com>
+// @version      3.0
+// @copyright    2022, terifash (https://greasyfork.org/en/users/964055-teri-fash)
+// @author       feri.fash <teri.fash@gmail.com>
 // @license      MIT
 // @description  1) Auto play 2) Auto widescreen 3) High quality playback 4) Click to push the next video 5) Download thumbnail
 // @match        *://*.xvideos.com/video*
 // @icon         https://www.xvideos.com/favicon-32x32.png
+// @supportURL   https://github.com/TeriFash/x.scripts.user/issues
+// @homepageURL  https://github.com/TeriFash/x.scripts.user
+// @updateURL    https://github.com/TeriFash/x.scripts.user/row/master/Download-play-x.user.js
+// @downloadURL  https://github.com/TeriFash/x.scripts.user/row/master/Download-play-x.user.js
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end

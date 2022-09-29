@@ -1,14 +1,18 @@
 // ==UserScript==
 // @name         JS Style - [ X ]
 // @namespace    http://tampermonkey.net/
-// @version      2.9
+// @version      3.0
 // @description  Set Js Styled site!
-// @copyright    2022, terifash (https://openuserjs.org/users/teri.fash)
-// @author       Teri.Fash <teri.fash@gmail.com>
+// @copyright    2022, terifash (https://greasyfork.org/en/users/964055-teri-fash)
+// @author       teri.fash <teri.fash@gmail.com>
 // @license      MIT
 // @match        *://*.xvideos.com/*
 // @grant        none
 // @icon         https://www.xvideos.com/favicon-32x32.png
+// @supportURL   https://github.com/TeriFash/x.scripts.user/issues
+// @homepageURL  https://github.com/TeriFash/x.scripts.user
+// @updateURL    https://github.com/TeriFash/x.scripts.user/row/master/JSStyle-x.user.js
+// @downloadURL  https://github.com/TeriFash/x.scripts.user/row/master/JSStyle-x.user.js
 // @run-at       document-start
 // ==/UserScript==
 
